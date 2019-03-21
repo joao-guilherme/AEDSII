@@ -3,11 +3,10 @@ package pratica1;
 import No.No;
 
 /**
- * Árvore Binária não ordenada.
+ * Árvore Binária não balanceada.
  * 
  * @author João Guilherme M. Guimarães
  */
-
 public class ArvoreBinaria
 {
     private No m_Raiz;
